@@ -1,0 +1,15 @@
+#!/bin/bash
+
+set -euo pipefail
+
+echo '     .ﾊ,,ﾊ
+     ( ﾟωﾟ)
+     |つ  つ'
+
+for i in {1..100}; 
+do
+  echo '     |    |'
+  sleep 0.1
+done
+
+echo '     U "  U'
