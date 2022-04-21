@@ -1,7 +1,7 @@
 # Longcat
 Print longcat in bash
 
-#Rule 51:
+# Rule 51:
 Longcat is looooooooooong
 
      .ﾊ,,ﾊ
